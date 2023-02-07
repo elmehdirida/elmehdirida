@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer from Morocco, passionate about building web applications. With experience in both frontend and backend development, I strive to create efficient and user-friendly solutions. Currently, working as a Software Engineer and continuously learning and growing in my role.<br><br>Aside from coding, I am interested in Technical Content Writing and have a goal to share my knowledge and skills through writing. In my free time, I'm keeping up with the latest tech news.<br><br>If you'd like to connect, feel free to reach me via my   <a href="https://www.linkedin.com/in/mohsine-hajar-b86b99199/">
+Full Stack Developer from Morocco, passionate about building web applications. With experience in both frontend and backend development, I strive to create efficient and user-friendly solutions. Currently, working as a Software Engineer and continuously learning and growing in my role.<br><br>Aside from coding, I am interested in Technical Content Writing and have a goal to share my knowledge and skills through writing. In my free time, I'm keeping up with the latest tech news.<br><br>If you'd like to connect, feel free to reach me via my   <a href="https://www.linkedin.com/in/rida-el-mehdi-a09045230/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
